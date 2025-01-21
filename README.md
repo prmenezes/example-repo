@@ -1,5 +1,6 @@
 # Example Repository
-This is a sample repo, Hello World!
+This is a sample repo, Hello Coders!
 
 #.md = markdown file
 
+This is a second line 
